@@ -24,6 +24,12 @@ Dedicates to computer vision applications in disaster management.
 - **Notebook**: `Deep_Learning_for_Satellite_Flood_Detection.ipynb`
 - **Key Concepts**: Satellite imagery analysis, flood segmentation, convolutional neural networks (CNNs), remote sensing data processing.
 
+#### [Session 4: Building image classification for exposure model development](./Day%201/Session%204)
+Dedicates to computer vision applications in disaster management.
+- **Notebook**: `AI4DRM_Augmentation_Final.ipynb` and `AI4DRM_CNN_Final.ipynb`
+- **Key Concepts**:Data Augmentation,labelling, convolutional neural networks (CNNs), image classification.
+
+
 ### Day 2
 #### [Session 1: NeuralHydrology & Rainfall-Runoff Modeling](./Day%202/Session%201)
 Focuses on the application of Deep Learning in Hydrology.
