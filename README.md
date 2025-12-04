@@ -26,7 +26,7 @@ The content is organized by daily sessions, including code notebooks and relevan
 
 #### Session 3: Satellite Flood Detection
 - **Location**: `./Day 1/Session 3`
-- **Notebook**: `Deep_Learning_for_Satellite_Flood_Detection.ipynb`
+- **Notebook**: `AI4DRM_for_Satellite_Flood_Detection.ipynb`
 - **Topics**: Computer vision for disaster management, satellite imagery analysis, flood segmentation, Convolutional Neural Networks (CNNs).
 
 #### Session 4: Image Classification for Exposure Models
