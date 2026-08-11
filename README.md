@@ -1,6 +1,6 @@
 # AI4DRM: Artificial Intelligence for Disaster Risk Management
 
-## Workshop Overview
+## Workshop Overview  
 
 This repository contains materials for the 3-day intensive workshop on Artificial Intelligence for Disaster Risk Management (AI4DRM). The workshop provides comprehensive training on neural networks, advanced deep learning architectures, and their applications in natural disaster prediction and detection.
 
